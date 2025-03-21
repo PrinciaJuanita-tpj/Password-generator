@@ -1,7 +1,7 @@
 # Password-generator
 Ce projet est une application simple de génération de mots de passe aléatoires utilisant Tkinter en Python.
 
-##Fonctionnalités
+## Fonctionnalités
 
   -Génération de mots de passe aléatoires de 8 à 50 caractères.
 
@@ -9,6 +9,6 @@ Ce projet est une application simple de génération de mots de passe aléatoire
 
   -Interface graphique avec champ d'affichage et bouton de génération.
 
-##Prérequis
+## Prérequis
 
 Assurez-vous d'avoir Python installé sur votre machine.
